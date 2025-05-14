@@ -40,34 +40,28 @@ We are the **Anonymous Coding Cult**—a brotherhood of visionary leaders driven
 ---
 
 ## 🤖 Cult Bots at a Glance
+
 | Bot | One-Liner |
 |-----|-----------|
-| **AnoGift** | Buy gift-card vouchers anonymously. |
-| **AnoCard** | Grab non-KYC virtual credit cards via crypto. |
-| **AnoBridge** | Bridge thousands of coins cross-chain with Monero privacy. |
-| **AnoCall** | Real-time contract-call alerts from hundreds of crypto influencers. |
-| **AnoVol** | SOL volume & trending bot with referral rewards. |
-| **SolSlam** | Create Biggest Buy / Last Buy / Raffle contests in Telegram and earn SOL referrals. |
+| **[AnoGift](https://t.me/AnoGift_bot)** | Buy gift-card vouchers 100 % anonymously. |
+| **[AnoCard](https://t.me/AnoCard_bot)** | Grab non-KYC virtual credit cards via crypto. |
+| **[AnoBridge](https://t.me/AnoBridge_bot)** | Bridge thousands of coins cross-chain with Monero privacy. |
+| **[AnoCall](https://t.me/AnoCall_bot)** | Real-time contract-call alerts from hundreds of crypto influencers. |
+| **[AnoVol](https://t.me/AnoVol_bot)** | SOL volume-and-trend bot with referral rewards. |
+| **[SolSlam](https://t.me/SolSlam_bot)** | Launch Biggest Buy / Last Buy / Raffle contests and earn SOL referrals. |
+
 
 <details>
 <summary>🔗 Quick Links (tap to reveal)</summary>
 
-- 🎁 **AnoGift Bot:** `<https://t.me/AnoGift_bot>`  
-- 💳 **AnoCard Bot:** `<https://t.me/AnoCard_bot>`  
-- 🔄 **AnoBridge Bot:** `<https://t.me/AnoBridge_bot>`  
-- 📢 **AnoCall Bot:** `<https://t.me/AnoCall_bot>`  
-- 📈 **AnoVol Bot:** `<https://t.me/AnoVol_bot>`  
-- 🏆 **SolSlam Bot:** `<https://t.me/SolSlam_bot>`
+- 🎁 **[AnoGift Bot](https://t.me/AnoGift_bot)**  
+- 💳 **[AnoCard Bot](https://t.me/AnoCard_bot)**  
+- 🔄 **[AnoBridge Bot](https://t.me/AnoBridge_bot)**  
+- 📢 **[AnoCall Bot](https://t.me/AnoCall_bot)**  
+- 📈 **[AnoVol Bot](https://t.me/AnoVol_bot)**  
+- 🏆 **[SolSlam Bot](https://t.me/SolSlam_bot)**  
+
 </details>
-
----
-
-## 📊 Cult Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<YOUR_USERNAME>&show_icons=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_USERNAME>&layout=compact&hide_border=true" />
-</p>
-
 ---
 
 <p align="center">
